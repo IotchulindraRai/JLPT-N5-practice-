@@ -99,15 +99,10 @@ npm run dev
 npm run build
 
 📱 Screenshots
+<img width="1905" height="1026" alt="Screenshot 2025-07-22 180432" src="https://github.com/user-attachments/assets/6e7dfef7-c9e9-4717-b581-a867826cc5b4" />
 
-<img width="1905" height="1026" alt="Screenshot 2025-07-22 180432" src="https://github.com/user-attachments/assets/a570a967-3e37-486a-b98e-a81bd0843f78" />
-
-
-Add screenshots of your application here showing the home page, test interface, and results page
-<img width="1835" height="967" alt="image" src="https://github.com/user-attachments/assets/07331ae7-df3c-433d-b8ca-59a613e5197a" />
-
-<img width="1856" height="944" alt="Screenshot 2025-07-22 180448" src="https://github.com/user-attachments/assets/6e29366a-d74f-4f75-8108-b5c326abf2e4" />
-
+<img width="1856" height="944" alt="Screenshot 2025-07-22 180448" src="https://github.com/user-attachments/assets/b83dcfdc-ca93-4b12-8ce2-562a9f15593a" />
+<img width="1835" height="967" alt="Screenshot 2025-07-22 180459" src="https://github.com/user-attachments/assets/ee8ad0ca-9335-49ea-baad-56bd443504d6" />
 
 🤝 Contributing
 Contributions are welcome!
