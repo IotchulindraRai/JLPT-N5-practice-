@@ -2,6 +2,8 @@
 
 A comprehensive Japanese Language Proficiency Test (JLPT) N5 practice exam platform built with **React**, **TypeScript**, and **Tailwind CSS**.  
 This web application provides an authentic testing experience for beginners learning Japanese.
+<img width="1905" height="1026" alt="Screenshot 2025-07-22 180432" src="https://github.com/user-attachments/assets/c95cfece-d405-4b3e-b08f-09d754ae0672" />
+![Uploading Screenshot 2025-07-22 180459.png…]()
 
 ---
 
@@ -97,12 +99,9 @@ npm run dev
 
 # Build for production
 npm run build
-
-📱 Screenshots
-<img width="1905" height="1026" alt="Screenshot 2025-07-22 180432" src="https://github.com/user-attachments/assets/6e7dfef7-c9e9-4717-b581-a867826cc5b4" />
-
-<img width="1856" height="944" alt="Screenshot 2025-07-22 180448" src="https://github.com/user-attachments/assets/b83dcfdc-ca93-4b12-8ce2-562a9f15593a" />
-<img width="1835" height="967" alt="Screenshot 2025-07-22 180459" src="https://github.com/user-attachments/assets/ee8ad0ca-9335-49ea-baad-56bd443504d6" />
+ 
+ 
+ 
 
 🤝 Contributing
 Contributions are welcome!
